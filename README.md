@@ -16,7 +16,7 @@ Express.js: Web application framework for Node.js.
 React: Front-end library for building user interfaces.
 Node.js: JavaScript runtime for the server-side.
 Setup Instructions
-Clone the repository: **git clone https://github.com/your-username/mern-in-60-minutes.git**
+Clone the repository: **git clone https://github.com/Tsav-Samson/mern-in-60-minutes.git**
 Navigate to the project directory: **cd mern-in-60-minutes**
 Install dependencies for the server: **npm install**
 Install dependencies for the client: **cd client && npm install**
